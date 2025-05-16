@@ -15,15 +15,15 @@ struk.jsp — Menampilkan ringkasan pemesanan sebagai struk
 Data film disimpan sementara menggunakan session tanpa koneksi ke database.
 
 🖼️ Screenshot Hasil Output
-1. 🎞️  Index (Daftar Film)
+###  Index (Daftar Film)
 
 ![Halaman Index](img/index.png)
 
-2. 📝  Form Pemesanan
+###  Form Pemesanan
 
 ![Form Pemesanan](img/formPesan.png)
 
-3. 📄 Halaman Struk
+### Halaman Struk
 
 ![Struk Pemesanan](img/struk.png
 
